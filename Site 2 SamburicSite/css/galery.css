@@ -1,0 +1,16 @@
+main {
+    margin-top: 50px;
+}
+.galery li {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.galery li img {
+    width: 100%;
+    margin: 10px 60px;
+}
+.country{
+    text-align: right;
+}

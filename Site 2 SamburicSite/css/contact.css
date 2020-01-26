@@ -1,0 +1,35 @@
+.contact-text{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    letter-spacing: 1.75px;
+}
+
+.contact{
+    padding-top: 10px;
+}
+.contact li{
+    margin-top: 10px;
+    list-style-type: none;
+}
+.contact a{
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.25px;
+    color: black;
+    font-weight: 400;
+    padding-left: 30px;
+    position: relative;
+}
+.contact-map{
+    padding-top: 60px;
+    padding-left: 110px;
+    max-width: 510px;
+    width: 100%;
+}
+.contact-map iframe{
+    width: 100%;
+}

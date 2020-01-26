@@ -1,0 +1,14 @@
+main {
+    margin-top: 70px;
+    text-align: center;
+}
+.about-title{
+    font-size: 20px;
+}
+.about-text{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.about-text2{
+    letter-spacing: 0.25px;
+}
